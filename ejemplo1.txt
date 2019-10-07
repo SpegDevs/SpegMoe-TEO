@@ -1,0 +1,5 @@
+.-Generated with VMS-.
+int _sara;
+10.;
+_sara = 10;
+int X;

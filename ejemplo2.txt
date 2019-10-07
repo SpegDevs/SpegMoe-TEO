@@ -1,0 +1,13 @@
+.-int Mamarre(dec valor){
+    comentario
+    ret Ceil(valor);
+}-.
+.|._HolaMundo = in(hola);
+>=
+==
+_
+1;
+1.9;
+<=
+if IF
+.
